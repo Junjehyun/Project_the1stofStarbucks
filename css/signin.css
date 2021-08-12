@@ -70,9 +70,9 @@
   font-size: 14px;
   border-right: 1px solid #ddd;
 }
-..signin__card .actions a:last-child {
+.signin__card .actions a:last-child {
   border-right: none;
 }
-..signin__card .actions a:hover {
+.signin__card .actions a:hover {
   text-decoration: underline;
 }
